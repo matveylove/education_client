@@ -6,7 +6,6 @@ import ChatIcon from '@mui/icons-material/Chat';
 import EmojiEventsIcon from '@mui/icons-material/EmojiEvents';
 import { motion } from 'framer-motion';
 import { Link } from 'react-router-dom';
-import Chat from '../components/Chat';
 
 const Home = () => {
 
